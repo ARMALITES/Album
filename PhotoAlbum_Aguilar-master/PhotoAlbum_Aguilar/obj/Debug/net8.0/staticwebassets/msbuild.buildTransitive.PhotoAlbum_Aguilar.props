@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PhotoAlbum_Aguilar.props" />
+</Project>

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|c:\\users\\james\\desktop\\photoalbum\\photoalbum_aguilar\\views\\home\\toyota.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|solutionrelative:views\\home\\toyota.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|c:\\users\\james\\desktop\\photoalbum\\photoalbum_aguilar\\views\\home\\ford.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|solutionrelative:views\\home\\ford.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|c:\\users\\james\\desktop\\photoalbum\\photoalbum_aguilar\\views\\home\\mazda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|solutionrelative:views\\home\\mazda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|c:\\users\\james\\desktop\\photoalbum\\photoalbum_aguilar\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|c:\\users\\james\\desktop\\photoalbum\\photoalbum_aguilar\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|c:\\users\\james\\desktop\\photoalbum\\photoalbum_aguilar\\views\\home\\mitsu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|solutionrelative:views\\home\\mitsu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|c:\\users\\james\\desktop\\photoalbum\\photoalbum_aguilar\\views\\home\\mercedes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|solutionrelative:views\\home\\mercedes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|c:\\users\\james\\desktop\\photoalbum\\photoalbum_aguilar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892F303F-9B30-476E-82B2-2E3DCA997690}|PhotoAlbum_Aguilar.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T15:38:46.378Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "toyota.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Views\\Home\\toyota.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\toyota.cshtml",
+              "ToolTip": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Views\\Home\\toyota.cshtml",
+              "RelativeToolTip": "Views\\Home\\toyota.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T15:27:56.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "mercedes.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Views\\Home\\mercedes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\mercedes.cshtml",
+              "ToolTip": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Views\\Home\\mercedes.cshtml",
+              "RelativeToolTip": "Views\\Home\\mercedes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T15:27:01.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mazda.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Views\\Home\\mazda.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\mazda.cshtml",
+              "ToolTip": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Views\\Home\\mazda.cshtml",
+              "RelativeToolTip": "Views\\Home\\mazda.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T15:26:35.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ford.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Views\\Home\\ford.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ford.cshtml",
+              "ToolTip": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Views\\Home\\ford.cshtml",
+              "RelativeToolTip": "Views\\Home\\ford.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T15:26:09.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:25:28.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T15:23:45.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mitsu.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Views\\Home\\mitsu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\mitsu.cshtml",
+              "ToolTip": "C:\\Users\\james\\Desktop\\PhotoAlbum\\PhotoAlbum_Aguilar\\Views\\Home\\mitsu.cshtml",
+              "RelativeToolTip": "Views\\Home\\mitsu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T15:27:34.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
